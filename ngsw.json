@@ -10,7 +10,7 @@
         "https://davidsngular.github.io/pwa2/favicon.ico",
         "https://davidsngular.github.io/pwa2/index.html",
         "https://davidsngular.github.io/pwa2/inline.318b50c57b4eba3d437b.bundle.js",
-        "https://davidsngular.github.io/pwa2/main.105d9e61ec1d93dae69c.bundle.js",
+        "https://davidsngular.github.io/pwa2/main.ebd39d59aad7e95f5a01.bundle.js",
         "https://davidsngular.github.io/pwa2/polyfills.515ed9df1f4876ab6cb6.bundle.js",
         "https://davidsngular.github.io/pwa2/styles.ac89bfdd6de82636b768.bundle.css"
       ],
@@ -27,10 +27,10 @@
   "dataGroups": [],
   "hashTable": {
     "https://davidsngular.github.io/pwa2/inline.318b50c57b4eba3d437b.bundle.js": "998c6060446975e566fd17509558ddc68d72eec3",
-    "https://davidsngular.github.io/pwa2/main.105d9e61ec1d93dae69c.bundle.js": "53ed90599d00ff3f22ec39dedfb90050dea3ad27",
+    "https://davidsngular.github.io/pwa2/main.ebd39d59aad7e95f5a01.bundle.js": "9e1a1a8ed68c8099e70363365888a6ae2216f47c",
     "https://davidsngular.github.io/pwa2/polyfills.515ed9df1f4876ab6cb6.bundle.js": "6ebdefc4109733be272a80dfeb6d48a9ace11267",
     "https://davidsngular.github.io/pwa2/styles.ac89bfdd6de82636b768.bundle.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
     "https://davidsngular.github.io/pwa2/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "https://davidsngular.github.io/pwa2/index.html": "95259d7093d01a0a1de235f3e5f019789890a711"
+    "https://davidsngular.github.io/pwa2/index.html": "0d1f012061eac1ea3991479c3d1002f3607b84b1"
   }
 }
